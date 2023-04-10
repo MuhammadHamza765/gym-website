@@ -1,0 +1,255 @@
+*{
+margin: 0;
+padding: 0;
+}
+#home{    color: white;
+    font-size: 15px;
+}
+#home:hover{
+    color: rgb(117, 116, 116);
+}
+#home2{
+    margin-left:700px ;
+    color: white;
+    padding: 10px 10px;
+    border: 1px solid grey;
+    border-radius: 25px;
+    font-size: 15px;
+}
+#home3{
+    color: white;
+    padding: 10px 10px;
+    font-size: 15px;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+#home3:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+}
+#home2:hover{
+    background-color: white;
+    color: black;
+    border-radius: 1px solid white;
+}
+.nav-item{
+    padding:10px;
+
+}
+#fitness{
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 45px;
+    padding: 5px 5px;
+    border-right: 1px solid grey;
+}
+
+#fitness3{
+    color: white;
+    font-weight: bold;
+}
+#fitness2{
+    color: white;
+    font-weight: bold;
+}
+#fitness3:hover{
+    color: rgb(117, 116, 116);
+}
+#fitness2:hover{
+    color: rgb(124, 124, 124);
+}
+#fluid2{
+    background-image: linear-gradient(rgba(71, 69, 69, 0.5),rgba(58, 58, 58, 0.719)),url(video.gif);
+    height: 65vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#community{
+    color: white;
+    font-weight: bold;
+}
+
+#first-heading{
+    color: white;
+    font-size: 55px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#button1{
+    margin-left: 15px;
+    padding: 10px 10px;
+    color: white;
+    background-color: rgb(12, 12, 223);
+    border: none;
+    width:100px;
+    border-radius: 35px;
+
+    transition: .5s;
+}
+#button1:hover{
+    background-color: rgb(5, 5, 148);
+}
+#button2{
+    padding: 10px 10px;
+    color: white;
+    width: 150px;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 35px;
+    transition:.5s ;
+}
+#button2:hover{
+    background-color: white;
+    color: black;
+    border: none;
+}
+#fitness4{
+    margin-left: 350px;
+    padding: 8px 8px;
+    color: white;
+    font-weight: 600;
+    border: none;
+    width: 120px;
+    background-color: rgb(12, 12,223);
+    border-radius: 25px;
+    transition: .5s;
+}
+#fitness4:hover{
+    background-color: rgba(23, 23, 238, 0.418);
+ 
+}
+#community2{
+    color: grey;
+
+}
+#community-para{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#fluid3{
+    /* height: 50vh; */
+    background-color: rgba(230, 230, 230, 0.911);
+}
+#workout-heading{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+#workout-heading2{
+    color: black;
+    margin-left: 10px;
+    font-weight: 600;
+}
+#button3{
+    margin-left: 5px;
+    padding: 10px 10px;
+    color: white;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    width: 200px;
+    background-color: rgb(13, 13, 197);
+    border: none;
+    transition: .5s;
+    border-radius: 25px;
+}
+#button3:hover{
+    background-color: rgb(5, 5, 148);
+}
+#col-5{
+    border-right: 1px solid rgb(160, 160, 160);
+    margin-top: 15px;
+}
+#col-4para{
+    cursor: pointer;
+    margin-left: 15px;
+}
+#col-4heading{
+    margin-left: 15px;
+}
+#video{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#button4{
+    margin-left: 5px;
+    padding: 10px 10px;
+    color: white;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    width: 150px;
+    background-color: rgb(13, 13, 197);
+    border: none;
+    transition: .5s;
+    border-radius: 25px;
+}
+#button4:hover{
+    background-color: rgb(5, 5, 148);
+}
+#fluid4{
+    background-image: linear-gradient(rgba(71, 69, 69, 0.5),rgba(58, 58, 58, 0.719)),url(Body-Tech-strong-team-training.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fluid4-head{
+    color: white;
+}
+#button5{
+    margin-left: 5px;
+    padding: 10px 10px;
+    color: white;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    width: 220px;
+    background-color: rgb(13, 13, 197);
+    border: none;
+    transition: .5s;
+    border-radius: 25px;   
+}
+#button5:hover{
+    background-color: rgb(5, 5, 148);
+}
+#fluid5{
+    background-image: linear-gradient(rgba(71, 69, 69, 0.5),rgba(58, 58, 58, 0.719)),url(container\ 3.jpg);
+    height: 60vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fluid5-head{
+    font-size: 50px;
+}
+#fluid6{
+    color: white;
+    background-color: rgb(29, 29, 29);
+    padding: 50px ;
+}
+#input{
+    padding: 10px 10px;
+    width: 250px;
+
+}
+#button6{
+margin-left: 25px;
+/* float: right; */
+padding: 10px 10px;
+color: white;
+/* font-weight: bold; */
+font-family: sans-serif;
+width: 120px;
+background-color: rgb(13, 13, 197);
+border: none;
+transition: .5s;
+border-radius: 25px;   
+}
+#button6:hover{
+background-color: rgb(5, 5, 148);
+}
+
+
+
